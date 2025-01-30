@@ -158,7 +158,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 For questions or feedback, please contact:
 
 - **Name**: [Gabrie mainde]
-- **Email**:Link [Makiga63@gmail.com]
+- **Email**:Link[Makiga63@gmail.com]
 
 
 ---
