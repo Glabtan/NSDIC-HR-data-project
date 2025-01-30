@@ -4,11 +4,11 @@ This project was designed to analyze HR data to provide actionable insights into
 
 
 ## Project Objectives
--- The following objectives were addressed in this project:
--- Determine the headcount for each job role.
--- Analyze the gender distribution among staff.
--- Assess salary discrepancies across various positions.
--- Identify the highest earners in each role.
--- Examine the relationship between qualifications and salaries.
--- Conduct an analysis of leave balances.
--- Create a streamlined HR dashboard for quick insights.
+ The following objectives were addressed in this project:
+ Determine the headcount for each job role.
+ Analyze the gender distribution among staff.
+ Assess salary discrepancies across various positions.
+ Identify the highest earners in each role.
+ Examine the relationship between qualifications and salaries.
+ Conduct an analysis of leave balances.
+ Create a streamlined HR dashboard for quick insights.
